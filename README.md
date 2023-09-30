@@ -1,5 +1,3 @@
-# Coba-file-MD
-
 # Kalkulator Sederhana
 
 ## Deskripsi
