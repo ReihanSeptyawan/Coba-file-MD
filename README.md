@@ -36,10 +36,11 @@ Kode aplikasi ini terdiri dari beberapa komponen utama:
 Bagian ini berisi peraturan gaya (CSS) untuk memformat tampilan halaman web, termasuk warna latar belakang, teks, kotak, dan efek hover.
 
 ### 3. Judul Halaman
-
+```
 <h1>Kalkulator Sederhana</h1>
+```
 
-Elemen <h1> digunakan untuk menampilkan judul halaman web, dalam hal ini "Kalkulator Sederhana."
+Elemen ``` <h1> ``` digunakan untuk menampilkan judul halaman web, dalam hal ini "Kalkulator Sederhana."
 
 ### 4. Formulir Input
 
@@ -76,7 +77,7 @@ Setiap hasil perhitungan ditampilkan dalam kotak-kotakan terpisah dengan class "
 
 Elemen ini digunakan untuk membuat garis ganda sebagai pemisah antara bilangan input dan hasil perhitungan.
 
-## Cara Menggunakan Aplikasi
+### Cara Menggunakan Aplikasi
 
 1. Masukkan bilangan pertama dan kedua
 2. Pilih operasi perhitungan yang diinginkan
